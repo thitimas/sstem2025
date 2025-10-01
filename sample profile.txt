@@ -1,0 +1,20 @@
+Maya Riveral Computer Science Student | AI & Cybersecurity Enthusiast | Python • ML • Threat Modeling 
+
+maya@gmail.com 
+
+https://www.linkedin.com/in/maya-riveral/ 
+
+I’m a junior Computer Science student interested in building secure, explainable machine learning systems. I’ve worked on class projects that apply lightweight ML to anomaly detection and on a lab project that used threat models to harden an IoT prototype. 
+I’m learning practical engineering tools (Python, scikit-learn, Docker) and I’m looking for research internships or applied ML roles for next summer. 
+
+IoT Anomaly Detection (Course Project) Built a TinyML pipeline on Raspberry Pi to classify sensor anomalies; achieved 87% accuracy and measured energy-per-inference. 
+
+Secure Chat Application (Independent Project) Developed an end-to-end encrypted messaging app with AES-256 and SHA-256; deployed prototype on Heroku with React + Node.js. 
+
+Volunteer Web Developer — Tech Mahindra Implemented front-end components for a nonprofit site and integrated a contact form; improved mobile load time by 35% using lazy-loading and image optimization. 
+
+Research Assistant — Network Intrusion Baselines (OpenField) Cleaned and labeled 200k+ netflow records; automated model training and evaluation pipeline and prepared results for the campus symposium poster. 
+
+Skills: Python, pandas, scikit-learn, Docker. 
+
+B.S. Computer Science — York College, Expected 2026
